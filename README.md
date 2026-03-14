@@ -1,6 +1,3 @@
-# Data--Analytics-Portfolio
-Collection of Data Analysis Projects
-
 # Data Analytics Portfolio
 
 Hi, I'm Han.
