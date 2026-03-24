@@ -27,22 +27,22 @@ To leverage data analytics and supply chain expertise to improve operational eff
 ## 📊 Featured Projects
 
 #### 1. HR Analysis - Headcount and Turnover
-- Tools: Microsoft Excel and Power BI 
-- Analysis of HR headcount and Turnover for the organization.
-- View Project: [HR Analysis](https://github.com/mghansoe01-HS/HAN-SOE/tree/main/01-hr-analysis)
+Tools: Microsoft Excel and Power BI.
+Analysis of HR headcount and Turnover for the organization.
+View Project: [HR Analysis](https://github.com/mghansoe01-HS/HAN-SOE/tree/main/01-hr-analysis)
 
 #### 2. Coffee Shop - Sales Analysis
-Tools: Microsoft Excel  
-- Analysis of HR headcount and Turnover for the organization.
+Tools: Microsoft Excel.  
+Analysis of HR headcount and Turnover for the organization.
 - View Project:
 
 #### 3. AirBnb Supply Analysis 
-Tools: Python, Pandas and Seabon
+Tools: Python, Pandas and Seabon.
 Analyzed the impact factor for supply chain in Paris.
 View Project :
 
 #### 4. DATABASE MANAGEMENT For Biographical Information (Group Project)
-Tools: SQL 
+Tools and Concept.: SQL and Relational Database Concept
 Creation of DBMS for Computer Science Most Influencial People: Biographical People which can be updated from Web-front page.
 View Project :
 
