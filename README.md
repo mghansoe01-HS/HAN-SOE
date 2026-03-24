@@ -1,29 +1,45 @@
-# Data Analytics Portfolio
+## Introducting Myself!
 
-Hi, I'm Han Soe and am immigrant professional from Burma (Myanmar).
+Hi there!  I'm Han Soe. A former supply chain professional and currently seeking an opportunity to work as a data professioanl who is studying Msc. MIS degree from Hood College, Maryland, USA.
 
-I am a Management Information Systems graduate student passionate about data analytics, business intelligence, and operations optimization.
+## Skills and Tools
+* Business Skills
+- Procurment Management
+- Inventory Management
+- Analytical and Problme Solving
+- Detailed Oriented and Adaptability
+- Communication and Collaboration
 
-## Skills
+* Technical Tools
+- Microsoft Office Suit
+- Excel and Power BI (Data Analysis and Visualization)
 - Python (Pandas, Seaborn, Matplotlib)
 - SQL
-- Power BI
-- Excel
+- Machine Learning and Artificial Intelligence 
+- Google Cloud and IBM Watson Studio
 
 ## Portfolio Projects
 
-### 1. HR Analysis - Headcount and Turnover
+# 1. HR Analysis - Headcount and Turnover
 Tools: Microsoft Excel and Power BI 
 Analysis of HR headcount and Turnover for the organization.
 View Project:
 
-### 2. DATABASE MANAGEMENT For Biographical Information (Group Project)
-Tools: SQL 
-Creation of DBMS for Computer Science Most Influencial People: Biographical People which can be updated from Web-front page.
+# 2. Coffee Shop - Sales Analysis
+Tools: Microsoft Excel  
+Analysis of HR headcount and Turnover for the organization.
+View Project:
 
-### 3. AirBnb Supply Analysis 
+# 3. AirBnb Supply Analysis 
 Tools: Python, Pandas and Seabon
 Analyzed the impact factor for supply chain in Paris.
+View Project :
+
+# 4. DATABASE MANAGEMENT For Biographical Information (Group Project)
+Tools: SQL 
+Creation of DBMS for Computer Science Most Influencial People: Biographical People which can be updated from Web-front page.
+View Project :
+
 
 ## Contact
 LinkedIn: www.linkedin.com/in/hansoe
