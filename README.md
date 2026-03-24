@@ -1,6 +1,11 @@
-## Introducting Myself!
+</> ## Introducting Myself!
 <img width="1584" height="396" alt="White and Gray Minimalist Data Scientist LinkedIn Background Photo" src="https://github.com/user-attachments/assets/182983e3-12d3-4c92-b139-62b6bc104ed9" />
 
+## 🛠 Tools
+- 🐍 Python
+- 🗄️ SQL
+- 📊 Power BI
+- 📈 Excel
 
 Hi there!  I'm Han Soe. A former supply chain professional and currently seeking an opportunity to work as a data professioanl who is studying Msc. MIS degree from Hood College, Maryland, USA.
 
