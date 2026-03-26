@@ -25,8 +25,8 @@ To leverage data analytics and supply chain expertise to improve operational eff
 - Machine Learning and Artificial Intelligence 
 - Google Cloud and IBM Watson Studio
 
-## 📊 Featured Projects : 
-View Here : [Projects] (https://github.com/hansoe01/data_portfolio_projects/blob/main/README.md)
+## 📊 Data Portfolio Projects: 
+View Here : [Data Projects] (https://github.com/hansoe01/data_portfolio_projects/blob/main/README.md)
 
 
 ## 📫 Let's Connect
