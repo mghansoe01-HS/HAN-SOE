@@ -11,6 +11,7 @@ To leverage data analytics and supply chain expertise to improve operational eff
 
 ## 🛠 Skills and Tools
 **Business Skills**
+- Data Literacy
 - Procurment Management
 - Inventory Management
 - Analytical and Problme Solving
